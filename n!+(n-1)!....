@@ -1,0 +1,20 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include<stdio.h>
+int main()
+{
+	long long int i = 0;
+	long long int ret = 1;
+	long long int n = 0;
+	long long int sum = 0;
+	scanf("%lld", &n);
+	if (n == 0)
+		printf("sum = 1");
+	else
+		for (i = 1; i <= n; i++)
+		{
+			ret = i * ret;
+			sum = sum + ret;
+		}
+	printf("sum = %lld\n", sum);
+	return 0;
+}
