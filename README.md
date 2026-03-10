@@ -29,4 +29,4 @@ I'm a Data Science & AI graduate student passionate about turning complex data i
 
 ## 📫 How to reach me
 
-Feel free to connect via [GitHub](https://github.com/Premiercouer) or reach out by email.
+Feel free to connect via [GitHub](https://github.com/Premiercouer) or reach out by jianzhuozhang643@gmail.com
