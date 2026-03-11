@@ -4,12 +4,6 @@ I'm a Data Science & AI graduate student passionate about turning complex data i
 
 ---
 
-## 🔭 What I'm working on
-
-- **Health Recommendation Engine Analysis** — Reverse-engineering a rule-based health recommendation system through EDA, NLP-based tip extraction, rule decomposition, and multi-label classification (XGBoost / RF / LR)
-
----
-
 ## 🛠️ Skills
 
 **Languages:** Python · SQL  
@@ -19,13 +13,6 @@ I'm a Data Science & AI graduate student passionate about turning complex data i
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [health-recommendation-engine-analysis](https://github.com/Premiercouer/health-recommendation-engine-analysis) | Reverse-engineered a health recommendation rule engine from output text alone | Python · XGBoost · NetworkX · sklearn |
-
----
 
 ## 📫 How to reach me
 
